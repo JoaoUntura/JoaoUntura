@@ -1,9 +1,7 @@
 <!-- Profile README for JoaoUntura -->
 
 <h1 align="center">Hi, I'm Joao Untura 👋</h1>
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJkdXNobWZ5dHMwNWNjaTduaTY5YTJ3dzA0c296NWg1Y3dlemhyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="200" alt="Coder GIF">
-</p>
+
 
 <p align="center">
   <b>Welcome to my GitHub profile!</b> <br>
