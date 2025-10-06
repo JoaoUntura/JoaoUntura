@@ -33,7 +33,7 @@
 - 🔗 [Java-API-Payments](https://github.com/JoaoUntura/Java-API-Payments) — Modern payment API in Java.
 - 🔗 [Java-API-Auth](https://github.com/JoaoUntura/Java-API-Auth) — Secure authentication for modern apps.
 - 🔗 [dockercompose_payments](https://github.com/JoaoUntura/dockercompose_payments) — Easy local setup for payment APIs.
-- 🔗 [untura-showcase](https://github.com/JoaoUntura/untura-showcase) — My portfolio and experiments.
+- 🔗 [auth_infra](https://github.com/JoaoUntura/auth_infra) — Easy local setup for authentication APIs.
 
 ## 🤝 Let's Connect!
 
