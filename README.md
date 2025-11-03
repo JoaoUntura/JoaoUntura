@@ -29,7 +29,7 @@
 
 ## 📚 Featured Projects
 
-
+- 🔗 [Java-API-Payments](https://github.com/JoaoUntura/Java-API-Payments) — GraphQl Java API for Streaming Platform
 - 🔗 [Java-API-Payments](https://github.com/JoaoUntura/Java-API-Payments) — Modern payment API in Java.
 - 🔗 [Java-API-Auth](https://github.com/JoaoUntura/Java-API-Auth) — Secure authentication for modern apps.
 - 🔗 [dockercompose_payments](https://github.com/JoaoUntura/dockercompose_payments) — Easy local setup for payment APIs.
