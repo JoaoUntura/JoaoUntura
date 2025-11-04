@@ -3,19 +3,6 @@
 <h1 align="center">Hi, I'm Joao Untura 👋</h1>
 
 
-<p align="center">
-  <b>Welcome to my GitHub profile!</b> <br>
-  I'm passionate about building scalable APIs, modern cloud solutions, and elegant software.
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on projects like <a href="https://github.com/JoaoUntura/Java-API-Auth">Java-API-Auth</a> and <a href="https://github.com/JoaoUntura/Java-API-Payments">Java-API-Payments</a>.
-- 🌱 Always learning new technologies and best practices for backend and cloud development.
-- 💡 I love open source, automation, and sharing knowledge with the community.
-
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -32,6 +19,7 @@
 - 🔗 [Java-API-Streaming-Platform](https://github.com/JoaoUntura/Java-API-Streaming-Platform) — GraphQl Java API for Streaming Platform
 - 🔗 [Java-API-Payments](https://github.com/JoaoUntura/Java-API-Payments) — Modern payment API in Java.
 - 🔗 [Java-API-Auth](https://github.com/JoaoUntura/Java-API-Auth) — Secure authentication for modern apps.
+- 🔗 [Java-API-CRM](https://github.com/JoaoUntura/Java-API-CRM) — Complete GraphQl API for complex CRM.
 - 🔗 [dockercompose_payments](https://github.com/JoaoUntura/dockercompose_payments) — Easy local setup for payment APIs.
 - 🔗 [auth_infra](https://github.com/JoaoUntura/auth_infra) — Easy local setup for authentication APIs.
 
