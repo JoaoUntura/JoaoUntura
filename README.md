@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi, I'm Joao Untura 👋</h1>
 
+<p>Backend and DevOps</p>
+
 
 ## 🛠️ Tech Stack
 
