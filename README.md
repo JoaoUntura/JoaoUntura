@@ -14,15 +14,17 @@
 
 
 
-## 📚 Featured Projects
+## 📚 Featured Java Projects
 
 - 🔗 [Java-API-Streaming-Platform](https://github.com/JoaoUntura/Java-API-Streaming-Platform) — GraphQl Java API for Streaming Platform
 - 🔗 [Java-API-Payments](https://github.com/JoaoUntura/Java-API-Payments) — Modern payment API in Java.
 - 🔗 [Java-API-Auth](https://github.com/JoaoUntura/Java-API-Auth) — Secure authentication for modern apps.
 - 🔗 [Java-API-CRM](https://github.com/JoaoUntura/Java-API-CRM) — Complete GraphQl API for complex CRM.
+
+
+## 📚 Featured DevOps Projects
 - 🔗 [dockercompose_payments](https://github.com/JoaoUntura/dockercompose_payments) — Easy local setup for payment APIs.
 - 🔗 [auth_infra](https://github.com/JoaoUntura/auth_infra) — Easy local setup for authentication APIs.
-
 ## 🤝 Let's Connect!
 
 <!-- Add your social links below. Example: -->
