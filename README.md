@@ -14,6 +14,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+## 📚 Closed Source Projects with 100+ users
+- 🔗 [Me Agende](https://www.meagende.site/) — B2B Saas for scheduling and CRM - Portugese Only
+- 🔗 [Me Fit](https://www.mefit.site/) — B2C full multitool AI agent for a fitness journey - Portugese Only
 
 
 ## 📚 Featured Java Projects
