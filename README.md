@@ -23,6 +23,12 @@
 
 ## 📚 Featured Java Projects
 
+- Micro Services Design Project
+    - 🔗 [Spring-OpenAi-ApiService](https://github.com/JoaoUntura/Spring-OpenAi-ApiService) — Api REST + Websocket service
+    - 🔗 [Spring-OpenAi-DataProcessingService](https://github.com/JoaoUntura/Spring-OpenAi-DataProcessingService) — LLM Pipeline and Data processing service
+    - 🔗 [Terraform-MicroServices-OpenAi](https://github.com/JoaoUntura/Terraform-MicroServices-OpenAi) — Terraform for Infrastructure in AWS
+    
+
 - 🔗 [Java- Streaming Platform](https://github.com/JoaoUntura/Java-API-Streaming-Platform) — GraphQl Java API for Streaming Platform
 - 🔗 [Java- API Payments](https://github.com/JoaoUntura/Java-API-Payments) — Modern payment API in Java.
 - 🔗 [Java- API Auth](https://github.com/JoaoUntura/Java-API-Auth) — Secure authentication for modern apps.
